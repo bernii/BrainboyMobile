@@ -1,0 +1,8 @@
+MIDlet-1: MobiBoy,,MobiBoy
+MIDlet-Jar-Size: 3467
+MIDlet-Jar-URL: BrainBoyMobile.jar
+MIDlet-Name: BrainBoyMobile Midlet Suite
+MIDlet-Vendor: extensa
+MIDlet-Version: 1.0.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
