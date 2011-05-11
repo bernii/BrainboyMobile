@@ -1,5 +1,5 @@
 ============
-brainboy-mobile
+BrainboyMobile
 ============
 
 This repository hosts the BrainBoy Mobile code.
